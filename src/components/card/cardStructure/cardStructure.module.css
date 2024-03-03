@@ -32,3 +32,7 @@
   background-color: rgb(232, 228, 228);
   padding: 20px;
 }
+
+.clicked {
+  height: 120px;
+}

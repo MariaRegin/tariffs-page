@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Безлимитный 300",
+    "tariff": "300",
+    "speed": "до 10 Мбит/сек",
+    "capacity": "Объем включенного трафика не ограничен",
+    "nameBackgroundColor": "darkblue",
+    "tariffBackgroundColor": "darkblue"
+  },
+  {
+    "name": "Безлимитный 450",
+    "tariff": "450",
+    "speed": "до 50 Мбит/сек",
+    "capacity": "Объем включенного трафика не ограничен",
+    "nameBackgroundColor": "brown",
+    "tariffBackgroundColor": "brown"
+  },
+  {
+    "name": "Безлимитный 550",
+    "tariff": "550",
+    "speed": "до 100 Мбит/сек",
+    "capacity": "Объем включенного трафика не ограничен",
+    "nameBackgroundColor": "darkgreen",
+    "tariffBackgroundColor": "darkgreen"
+  },
+  {
+    "name": "Безлимитный 1000",
+    "tariff": "1000",
+    "speed": "до 200 Мбит/сек",
+    "capacity": "Объем включенного трафика не ограничен",
+    "nameBackgroundColor": "darkviolet",
+    "tariffBackgroundColor": "darkviolet"
+  }
+]
